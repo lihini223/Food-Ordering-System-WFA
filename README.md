@@ -21,3 +21,7 @@ The aim of this system is to make the client and the cashier comfortable and to 
 •	Admins should be able to add/remove/update/check cashiers and their details.<br>
 •	Admins should be able to add/remove/update/check offers and various food items.<br>
 •	Cashiers should be capable of generating the bills.<br>
+
+# Diagrams:
+
+## ER Diagram
