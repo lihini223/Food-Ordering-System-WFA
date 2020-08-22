@@ -29,3 +29,6 @@ The aim of this system is to make the client and the cashier comfortable and to 
 
 ## Use Case Diagram
 ![use case diagram](https://github.com/lihini223/Food-Ordering-System-WFA/blob/master/Images/Use%20Case%20diagram.png)
+
+## Class Diagram
+![class diagram](https://github.com/lihini223/Food-Ordering-System-WFA/blob/master/Images/class%20diagram.jpg)
