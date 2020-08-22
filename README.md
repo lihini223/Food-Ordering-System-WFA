@@ -18,4 +18,5 @@ The aim of this system is to make the client and the cashier comfortable and to 
 
 •	The system should be able to enroll new users (admins and cashiers).
 •	Admins must be provided with a more advanced and functional dashboard other than normal users as they are assessed with much more duties and responsibilities.
+•	Admins should be able to add/remove/update/check cashiers and their details.
 
