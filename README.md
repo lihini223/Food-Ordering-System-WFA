@@ -17,4 +17,5 @@ The aim of this system is to make the client and the cashier comfortable and to 
 ## Requirements of The System
 
 •	The system should be able to enroll new users (admins and cashiers).
+•	Admins must be provided with a more advanced and functional dashboard other than normal users as they are assessed with much more duties and responsibilities.
 
