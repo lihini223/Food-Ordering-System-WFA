@@ -13,3 +13,8 @@ Customers select and tell the cashier the food items and the cashier select the 
 The customer can make the payment and receive the food when they are ready. In this system, all the executive operations such as adding or removing cashiers to the system, adding and/or removing food items to the menu is done by the administration while the cashier is only capable of generating bills. Administration is also given the opportunity of updating and checking details of current cashiers, food items and offers so that the security of the system is thoroughly enhanced, and no other external party can access the system’s data. 
 
 The aim of this system is to make the client and the cashier comfortable and to make things simple for the cashier when they select food items. And, especially to reduce the time when the customer takes something to select and order. This system is implemented to make the customer and the cashier feel it is simple and easy to order the food items.
+
+## Requirements of The System
+
+•	The system should be able to enroll new users (admins and cashiers).
+
