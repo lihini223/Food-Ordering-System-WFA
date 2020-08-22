@@ -32,3 +32,8 @@ The aim of this system is to make the client and the cashier comfortable and to 
 
 ## Class Diagram
 ![class diagram](https://github.com/lihini223/Food-Ordering-System-WFA/blob/master/Images/class%20diagram.jpg)
+
+# Samples of the developed system
+
+## Welcome Page
+The welcome page is the first form of the software. It provides users the accessibility to login to the system. The users can log into their respective admin or normal user accounts by clicking on the appropriate radio button. This form redirects to the admin’s dashboard.<br>
