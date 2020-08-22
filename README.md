@@ -25,3 +25,4 @@ The aim of this system is to make the client and the cashier comfortable and to 
 # Diagrams:
 
 ## ER Diagram
+![ER Diagram](https://github.com/lihini223/Food-Ordering-System-WFA/blob/master/Images/ER%20diagram.png)
