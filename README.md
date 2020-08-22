@@ -20,4 +20,4 @@ The aim of this system is to make the client and the cashier comfortable and to 
 •	Admins must be provided with a more advanced and functional dashboard other than normal users as they are assessed with much more duties and responsibilities.
 •	Admins should be able to add/remove/update/check cashiers and their details.
 •	Admins should be able to add/remove/update/check offers and various food items.
-
+•	Cashiers should be capable of generating the bills
