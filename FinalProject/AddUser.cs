@@ -19,16 +19,6 @@ namespace FinalProject
             InitializeComponent();
         }
 
-        private void AddUser_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void metroUserControl1_Load(object sender, EventArgs e)
-        {
-
-        }
-
 
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -154,10 +144,6 @@ namespace FinalProject
             txtPhoneNumber.Text = null;
         }
 
-        private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-            
-        }
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
